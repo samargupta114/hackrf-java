@@ -46,6 +46,8 @@ $ mvn install
 If all goes well you will end up with a file `target/uhd-java-<version>.jar`,
 this contains all the compiled classes and shared object libraries.
 
+and if does not kindly visit again (http://code.ettus.com/redmine/ettus/projects/uhd/wiki) and know about that you are missing some steps
+
 ## License
 
 Copyright 2015 An Honest Effort LLC
